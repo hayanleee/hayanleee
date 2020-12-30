@@ -12,7 +12,7 @@
   - Oracle, PostgreSQL, MariaDB
   - PyCharm, eGovFrame, Flask, Enovia 
 
-### about me
+### More Info
   - 홍익대학교 전자전기공학과 졸업
   - 한국정보기술연구원 임베디드 교육 수료
   - 정보처리기사 자격증
