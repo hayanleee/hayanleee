@@ -15,7 +15,7 @@
 ### More Info
   - 홍익대학교 전자전기공학과 졸업
   - 한국정보기술연구원 임베디드 교육 수료
-  - 정보처리기사 자격증
+  - 정보처리기사 자격증 취득
 
 <!--
 **hayanleee/hayanleee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
