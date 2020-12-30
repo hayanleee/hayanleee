@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Work Experience
   - Spring Framework Web Backend
     - PLM part, drawing, change request module
