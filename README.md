@@ -3,7 +3,7 @@
     - PLM part, drawing, change request module
   - Python PySide2 C/S program
     - CAD Integration client, web program
-  - Console App
+  - Console App program
     - Convert CAD drawing files to pdf, jpg, wrl, and dwg program
   - Linux server Management & Setting (DB, Network, RAID, IDRAC, etc.)
 
