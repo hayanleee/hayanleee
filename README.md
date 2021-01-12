@@ -10,7 +10,7 @@
 ### Tech
   - Python, Java, C, C++, Visual Basic
   - Oracle, PostgreSQL, MariaDB
-  - PyCharm, eGovFrame, Flask, Enovia 
+  - PyCharm, eGovFrame, Spring Framework, Flask, Enovia, MyBatis
 
 ### More Info
   - 홍익대학교 전자전기공학과 졸업
