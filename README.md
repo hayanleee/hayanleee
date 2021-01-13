@@ -1,16 +1,19 @@
 ### Work Experience
-  - Spring Framework Web Backend
-    - PLM part, drawing, change request module
-  - Python PySide2 C/S program
-    - CAD Integration client, web program
-  - Console App program
+  - Backend web development using spring framework
+    - Part, Draw module development for drawing management
+    - SAP interface with material data in plm system
+    - Migration database and files
+  - Python-based CS program & Java-based Backend
+    - Python GUI development with Qt and PySide2
+    - Xml parser with java (BOM tree structure)
+  - Console application development using Visualbasic
     - Convert CAD drawing files to pdf, jpg, wrl, and dwg program
   - Linux server Management & Setting (DB, Network, RAID, IDRAC, etc.)
 
 ### Tech
   - Python, Java, C, C++, Visual Basic
   - Oracle, PostgreSQL, MariaDB
-  - PyCharm, eGovFrame, Spring Framework, Flask, Enovia, MyBatis
+  - eGovFrame, Spring Framework, Flask, Qt, Enovia, MyBatis
 
 ### More Info
   - 홍익대학교 전자전기공학과 졸업
