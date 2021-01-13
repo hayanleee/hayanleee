@@ -1,7 +1,7 @@
 ### Work Experience
-  - Backend web development using spring framework
+  - Backend web development using Spring framework
     - Part, Draw module development for drawing management
-    - SAP interface with material data in plm system
+    - SAP interface with material data in PLM system
     - Migration database and files
   - Python-based CS program & Java-based Backend
     - Python GUI development with Qt and PySide2
