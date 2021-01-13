@@ -2,7 +2,7 @@
   - Backend web development using Spring framework
     - Part, Draw module development for drawing management
     - SAP interface with material data in PLM system
-    - Migration database and files
+    - Migration data and files according to DB change
   - Python-based CS program & Java-based Backend
     - Python GUI development with Qt and PySide2
     - Xml parser with java (BOM tree structure)
