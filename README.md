@@ -13,7 +13,7 @@
 ### Tech
   - Python, Java, JavaScript, C, C++, Visual Basic
   - Oracle, PostgreSQL, MariaDB
-  - eGovFrame, Spring Framework, Flask, Qt, Enovia, MyBatis
+  - eGovFrame, Spring Framework, Flask, Jinja2, Qt, Enovia, MyBatis
 
 ### More Info
   - 홍익대학교 전자전기공학과 졸업
