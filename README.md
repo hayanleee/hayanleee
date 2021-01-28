@@ -11,7 +11,7 @@
   - Linux server Management & Setting (DB, Network, RAID, IDRAC, etc.)
 
 ### Tech
-  - Python, Java, C, C++, Visual Basic
+  - Python, Java, JavaScript, C, C++, Visual Basic
   - Oracle, PostgreSQL, MariaDB
   - eGovFrame, Spring Framework, Flask, Qt, Enovia, MyBatis
 
