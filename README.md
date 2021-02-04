@@ -15,6 +15,10 @@
   - Oracle, PostgreSQL, MariaDB
   - eGovFrame, Spring Framework, Flask, Jinja2, Qt, Enovia, MyBatis
 
+### Toy Project
+  - Macro for reservation site
+  - Business revenue management system
+
 ### More Info
   - 홍익대학교 전자전기공학과 졸업
   - 한국정보기술연구원 임베디드 교육 수료
