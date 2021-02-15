@@ -16,8 +16,8 @@
   - eGovFrame, Spring Framework, Flask, Jinja2, Qt, Enovia, MyBatis
 
 ### Toy Project
-  - Macro for reservation site
-  - Business revenue management system
+  - 예약 사이트 자동화 시스템
+  - 아이디어스 매출, 수익 관리 시스템 
 
 ### More Info
   - 홍익대학교 전자전기공학과 졸업
